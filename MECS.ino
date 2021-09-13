@@ -13,8 +13,8 @@
 #include <ArduinoJson.h>  // Biblioteca para criar mensagem Json.
 
 //============== Definição de Constantes ======================
-#define WIFI_SSID "VIVOFIBRA-F738"
-#define WIFI_PASS  "9C4B3777D4"
+#define WIFI_SSID "WIFI"
+#define WIFI_PASS  "PASS"
 
 //Define os pinos para o trigger e echo
 #define pino_trigger 2
