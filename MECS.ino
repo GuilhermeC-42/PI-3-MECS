@@ -1,8 +1,7 @@
 /*
-    Projeto: Análise de Consumo Elétrico com ESP8266
-    Autor: Daniel Fiuza - AutoCore Robótica
+    Projeto: Controle de consumo elétrico através do ESP8266.
+    Autor: Guilherme Cordeiro Peixoto
     Data: 03/04/2020
-    Código de Dominio Público.
 */
 //============== Declaração de Bibliotecas ====================
 #include <NTPClient.h>    // Biblioteca do NTP.
